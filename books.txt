@@ -1,0 +1,5 @@
+1 The_Hobbit J.R.R_Tolkien 15.99 10
+2 ENSTA electric 20.50 5
+3 1984 George_Orwell 10.00 8
+4 The_Catcher_in_the_Rye J.D_Salinger 12.00 7
+5 To_Kill_a_Mockingbird Harper_Lee 18.99 6
